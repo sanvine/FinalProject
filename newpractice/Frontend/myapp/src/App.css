@@ -7,6 +7,10 @@
   font-weight: bold;
   margin-top: 5px;
 }
+.nav-img{
+  height:80px;
+  width:80px;
+}
 .home{
   background-image:url('Images/homebg.jpeg');
   height: 600px;
